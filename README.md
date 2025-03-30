@@ -1,4 +1,4 @@
-# Food-Delivery-Cost-and-Profitability-Analysis
+# Food Delivery Cost and Profitability Analysis
 This repository contains a Jupyter Notebook that analyzes food delivery costs and profitability. The project explores various factors affecting cost structures, revenue generation, and potential business insights for food delivery services.
 
 ## 📌 Project Overview
