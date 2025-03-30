@@ -37,11 +37,13 @@ To run this project locally:
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/food-delivery-analysis.git
+   ```
 
 2. Install the required dependencies:
-  ```sh
-  pip install -r requirements.txt
-
+   ```sh
+   pip install -r requirements.txt
+   ```
 3. Open the Jupyter Notebook:
-  ```sh
-  jupyter notebook Food_Delivery_Cost_and_Profitability_.ipynb
+   ```sh
+   jupyter notebook Food_Delivery_Cost_and_Profitability_.ipynb
+   ```
