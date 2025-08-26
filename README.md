@@ -22,7 +22,7 @@ Food delivery businesses operate in a competitive landscape where profitability 
 - Pandas
 - NumPy
 - Matplotlib & Seaborn (for data visualization)
-- Scikit-learn (if machine learning models are used)
+- Scikit-learn
 
 ## 📊 Key Insights
 
